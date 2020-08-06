@@ -30,8 +30,8 @@ As limitações foram concluídas somente olhando e testando os endpoints do có
 7. [Buscar os dados de um anime pelo nome](#7-buscar-os-dados-de-um-anime-pelo-nome)
 8. [Buscar os detalhes de um anime](#8-buscar-os-detalhes-de-um-anime)
 9. [Buscar os animes mais populares](#9-buscar-os-animes-mais-populares)
-10. [Buscar o próximo episódio](#9-buscar-o-próximo-episódio)
-11. [Buscar o episódio anterior](#9-buscar-o-episódio-anterior)
+10. [Buscar o próximo episódio](#10-buscar-o-próximo-episódio)
+11. [Buscar o episódio anterior](#11-buscar-o-episódio-anterior)
 
 ### 1. Iniciando
 1. Tenha em mente que todas as requisições devem ser feitas usando query params, ou seja, usando o ponto de interrogação, exemplo: `?endpoint=abc`  
