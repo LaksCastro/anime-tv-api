@@ -3,7 +3,7 @@
 </p>
 <h2 align="center">Anime TV API</h2>
 <p align="center">
-  Anime TV é um  <a href="https://play.google.com/store/apps/details?id=br.com.animetvon&hl=pt_BR">aplicativo da Play Store</a> utilizado para Stream de animes totalmente grátis mas com anúncios. E este repositório é a documentação não oficial da API utilizada para buscar os dados dos animes.
+  Anime TV é um  aplicativo utilizado para Stream de animes totalmente grátis mas com anúncios. E este repositório é a documentação não oficial da API utilizada para buscar os dados dos animes.
 </p>
 
 <br>
