@@ -492,3 +492,19 @@ interface Stream {
   locationsd: string,
 }[]
 ```
+
+<br>
+<br>
+<br>
+<br>
+
+<h2 align="center">
+  Open Source
+</h2>
+<p align="center">
+  <sub>Copyright © 2020-present, Laks Castro.</sub>
+</p>
+<p align="center">This doc <a href="https://github.com/LaksCastro/anime-tv-unofficial-api/blob/master/LICENSE.md">is MIT licensed 💖</a></p>
+<p align="center">
+  <img src="./assets/animetv.png" width="35" />
+</p>
