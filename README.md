@@ -7,17 +7,13 @@
 <p align="center">Anime TV é um  aplicativo utilizado para Stream de animes totalmente grátis mas com anúncios. E este repositório é a documentação não oficial da API utilizada para buscar os dados dos animes.</p>
 <p align="center">
   <img  src="https://img.shields.io/badge/type-api_endpoints-purple" alt="Application Category" />
-  <img  src="https://img.shields.io/badge/status-broken-red" alt="Repo Status" />
+  <img  src="https://img.shields.io/badge/status-auth required-yellow" alt="Repo Status" />
   <img  src="https://img.shields.io/badge/where_from-anime_tv_mobile_app-blue" alt="Repo Ref" />
 </p>
 
 ## Nota importante:
 
-A partir do dia 21 de jun. de 2021, a equipe do AnimeTV implementou um sisteminha de autenticação, então não é possível pegar a URL de streaming dos animes mais do jeito que estava sendo feito. Agora você precisa adicionar os seguintes headers junto da requisição:
-```js
-X-Auth: VnM4ejB1dElLajZDZDhiSU02aGF0RmdDQWxXNDl3SEQzWjE2Ulg1K3ZOWjZkbjJXZjBqT2xnT0FVdnVwd2VjTE4rbmM2WnoxSTRLZmUyRGlBc1FCd0MrbzJiamNGajRLMitjSFhnOEU5YnVRbDZGbitzelBwb2UyTmFHYXZXSTNmK09MdVNTMG91bEhrZEZnb29SQ082SmVXM2Y2ZlNwQWVFeTRaSXpORjhFTzBpaTgxL2pUNkVDVGh1M0ZqZUZxWElZTGt1dGpOSmhNMC9WK3JEWjFBdkk2b2ZmK0Rkc1IybkJYWHUwa2hTTnlzZ0lDb3RqbklGTEpFcnB0azVBYmZ6MkRuUHpzdzNrZ0NaR1VyYkVxMEExTTVUTU9qcTg4T2xTNkJueWVlcG1ic1cvZ3V4Y1pwUlllU1RPNE50OEZCczJZWmlQd3VVODQzL1Z0a2dxR0p3PT0=
-X-Requested-With: br.com.meuanimetv
-```
+A partir do dia 21 de jun. de 2021, a equipe do AnimeTV implementou um sisteminha de autenticação, então não é possível pegar a URL de streaming dos animes mais do jeito que estava sendo feito. Agora você precisa seguir algumas etapas para fazer a autenticação. Essas etapas foram [discutidas nesta issue.](https://github.com/AnimeFlitch/flitch/issues/15)
 
 <br>
 
