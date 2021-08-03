@@ -1,3 +1,7 @@
+<blockquote>
+  <h2>A API não está mais funcionando, foram feitas atualizações por parte do aplicativo oficial para remover o acesso não autorizado ao App. Você pode encontrar <a href="https://github.com/AnimeFlitch/flitch/issues/15">detalhes nesta issue.</a></h2>
+</blockquote>
+
 <p align="center">
   <img src="/assets/animetv.png" width="70" />
 </p>
